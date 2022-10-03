@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework17</string>
+    <string name="personal">Personal</string>
+    <string name="business">Business</string>
+    <string name="android">Android</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title">Amanda Rachel</string>
+    <string name="email">amandarachel@gmail.com</string>
+</resources>
